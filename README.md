@@ -40,9 +40,9 @@ In addition to my technical skills, I have excellent communication skills and ca
 - Jira
 - Trello
 ### Experience:
-QA Automation Engineer at RedRover.school.
+## QA Automation Engineer at RedRover.school.
 Mar 2023 - Aug 2023
-QA Engineer at ITX. 
+## QA Engineer at ITX. 
 Mar 2022 - Mar 2023. 
 Minsk, Belarus.
 ### Education:
