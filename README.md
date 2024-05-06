@@ -70,4 +70,4 @@ As part of the course I gained experience in testing a mobile application, web f
 ### Languages:
 - Russian - Native
 - Belarusian - Native
-- English - Pre-Intermediate
+- English - Intermediate
